@@ -13,11 +13,11 @@
     "onail": {
       "image": "portfolio/027.jpg",
       "gallery": [
-        "portfolio/026.jpg"
+        "portfolio/onail-hd-ee53b28d0765.jpg"
       ],
       "mainImages": [],
       "detailImages": [
-        "portfolio/026.jpg"
+        "portfolio/onail-hd-ee53b28d0765.jpg"
       ]
     },
     "melodysusie": {
@@ -880,6 +880,10 @@
     "portfolio/closing-ae19f1f3bc2a957b.jpg": {
       "width": 1308,
       "height": 736
+    },
+    "portfolio/onail-hd-ee53b28d0765.jpg": {
+      "width": 1920,
+      "height": 21200
     }
   },
   "closing": "portfolio/closing-ae19f1f3bc2a957b.jpg"

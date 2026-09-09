@@ -120,9 +120,9 @@ html,body{overflow-x:clip}
 .hero-copy{width:min(390px,85vw)}
 #other .art-card,#other .art-card img{border-radius:10px}
 .closing{height:800px;min-height:0}
-.closing-art{inset:auto;top:50%;left:50%;transform:translate(-50%,-50%);height:auto;width:min(100%,1421.73px);aspect-ratio:1308/736;max-width:100%;opacity:1;mask-image:none}
+.closing-art{inset:0;transform:none;height:100%;width:100%;aspect-ratio:auto;max-width:none;opacity:1;mask-image:none}
 .closing::after{display:none}
-.closing .closing-art .ambient-video{object-fit:contain}
+.closing .closing-art .ambient-video{object-fit:cover;object-position:center}
 .nav-contact{position:relative;isolation:isolate}
 .nav-contact::after{content:'';position:absolute;inset:-2px;border-radius:inherit;padding:2px;background:conic-gradient(from var(--edge-angle),transparent 65%,#fff 80%,#a7eaff 87%,transparent 95%);mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);mask-composite:exclude;pointer-events:none;opacity:0}
 .nav-contact:hover::after,.nav-contact:focus-visible::after{opacity:1;animation:edge-orbit 1.8s linear infinite}
