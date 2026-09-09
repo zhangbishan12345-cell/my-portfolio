@@ -1,0 +1,886 @@
+{
+  "projects": {
+    "navee": {
+      "image": "portfolio/025.jpg",
+      "gallery": [
+        "portfolio/023.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/023.jpg"
+      ]
+    },
+    "onail": {
+      "image": "portfolio/027.jpg",
+      "gallery": [
+        "portfolio/026.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/026.jpg"
+      ]
+    },
+    "melodysusie": {
+      "image": "portfolio/022.jpg",
+      "gallery": [
+        "portfolio/081.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/081.jpg"
+      ]
+    },
+    "coofandy": {
+      "image": "portfolio/019.jpg",
+      "gallery": [
+        "portfolio/018.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/018.jpg"
+      ]
+    },
+    "ek": {
+      "image": "portfolio/021.jpg",
+      "gallery": [
+        "portfolio/020.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/020.jpg"
+      ]
+    },
+    "exo": {
+      "image": "portfolio/054.jpg",
+      "gallery": [
+        "portfolio/053.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/053.jpg"
+      ]
+    },
+    "plant": {
+      "image": "portfolio/068.jpg",
+      "gallery": [
+        "portfolio/066.jpg",
+        "portfolio/067.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/066.jpg",
+        "portfolio/067.jpg"
+      ]
+    },
+    "lamp": {
+      "image": "portfolio/080.jpg",
+      "gallery": [
+        "portfolio/079.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/079.jpg"
+      ]
+    },
+    "vacuum": {
+      "image": "portfolio/048.jpg",
+      "gallery": [
+        "portfolio/update-ea0f5e3b168c035a.jpg",
+        "portfolio/update-87c38ce606e9da45.jpg",
+        "portfolio/update-fe20d45b0671d59f.jpg",
+        "portfolio/update-cf95445703f873bc.jpg",
+        "portfolio/update-7f3ec2ba4058f4d1.jpg",
+        "portfolio/update-f88b32b2cf23e137.jpg",
+        "portfolio/update-8d40e826078671b6.jpg",
+        "portfolio/update-784fe39b943ad4de.jpg",
+        "portfolio/update-d938b04aaaf8f34c.jpg",
+        "portfolio/update-62c6897408112839.jpg"
+      ],
+      "mainImages": [
+        "portfolio/update-ea0f5e3b168c035a.jpg",
+        "portfolio/update-87c38ce606e9da45.jpg",
+        "portfolio/update-fe20d45b0671d59f.jpg",
+        "portfolio/update-cf95445703f873bc.jpg",
+        "portfolio/update-7f3ec2ba4058f4d1.jpg",
+        "portfolio/update-f88b32b2cf23e137.jpg",
+        "portfolio/update-8d40e826078671b6.jpg",
+        "portfolio/update-784fe39b943ad4de.jpg",
+        "portfolio/update-d938b04aaaf8f34c.jpg"
+      ],
+      "detailImages": [
+        "portfolio/update-62c6897408112839.jpg"
+      ]
+    },
+    "nails": {
+      "image": "portfolio/078.jpg",
+      "gallery": [
+        "portfolio/071.jpg",
+        "portfolio/072.jpg",
+        "portfolio/073.jpg",
+        "portfolio/074.jpg",
+        "portfolio/075.jpg",
+        "portfolio/076.jpg",
+        "portfolio/077.jpg"
+      ],
+      "mainImages": [
+        "portfolio/072.jpg",
+        "portfolio/073.jpg",
+        "portfolio/074.jpg",
+        "portfolio/075.jpg",
+        "portfolio/076.jpg",
+        "portfolio/077.jpg"
+      ],
+      "detailImages": [
+        "portfolio/071.jpg"
+      ]
+    },
+    "drill": {
+      "image": "portfolio/065.jpg",
+      "gallery": [
+        "portfolio/055.jpg",
+        "portfolio/056.jpg",
+        "portfolio/057.jpg",
+        "portfolio/058.jpg",
+        "portfolio/059.jpg",
+        "portfolio/060.jpg",
+        "portfolio/061.jpg",
+        "portfolio/062.jpg",
+        "portfolio/063.jpg",
+        "portfolio/064.jpg"
+      ],
+      "mainImages": [
+        "portfolio/055.jpg",
+        "portfolio/056.jpg",
+        "portfolio/057.jpg",
+        "portfolio/058.jpg",
+        "portfolio/059.jpg",
+        "portfolio/060.jpg",
+        "portfolio/061.jpg",
+        "portfolio/062.jpg",
+        "portfolio/063.jpg"
+      ],
+      "detailImages": [
+        "portfolio/064.jpg"
+      ]
+    },
+    "anniversary": {
+      "image": "portfolio/050.jpg",
+      "gallery": [
+        "portfolio/049.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/049.jpg"
+      ]
+    },
+    "christmas": {
+      "image": "portfolio/052.jpg",
+      "gallery": [
+        "portfolio/051.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/051.jpg"
+      ]
+    },
+    "mother": {
+      "image": "portfolio/070.jpg",
+      "gallery": [
+        "portfolio/069.jpg"
+      ],
+      "mainImages": [],
+      "detailImages": [
+        "portfolio/069.jpg"
+      ]
+    }
+  },
+  "art": [
+    {
+      "image": "portfolio/update-ec06483410de4952.jpg",
+      "name": "Comfort & style / 衬衫穿搭",
+      "type": "poster",
+      "group": "fashion"
+    },
+    {
+      "image": "portfolio/update-cad4f11f87dbc35f.jpg",
+      "name": "Autumn is coming / 秋日衣橱",
+      "type": "poster",
+      "group": "fashion"
+    },
+    {
+      "image": "portfolio/update-0e2a6a5ca8d11306.jpg",
+      "name": "Sweet heart / 节日穿搭",
+      "type": "poster",
+      "group": "fashion"
+    },
+    {
+      "image": "portfolio/update-4ff9d153e0cb69c2.jpg",
+      "name": "Be warm / 冬日针织",
+      "type": "poster",
+      "group": "fashion"
+    },
+    {
+      "image": "portfolio/update-f9a8875439162032.jpg",
+      "name": "Swimwear / 泳装系列",
+      "type": "poster",
+      "group": "fashion"
+    },
+    {
+      "image": "portfolio/update-e34b020c25caa85c.jpg",
+      "name": "New light / 居家时光",
+      "type": "poster",
+      "group": "fashion"
+    },
+    {
+      "image": "portfolio/update-819c1cafe358b6ca.jpg",
+      "name": "产品视觉 / 画板 1 拷贝 10",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-2c46e0e71140c90c.jpg",
+      "name": "Explore every move / 外骨骼",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-542949a2d6a814ad.jpg",
+      "name": "More than a lamp / 美甲灯",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-2ab251df4b475384.jpg",
+      "name": "High speed dryer / 吹风机",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-7273b215c8813c2b.jpg",
+      "name": "Jewelry cat eye / 猫眼胶",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-b7e10190b3ed6141.jpg",
+      "name": "Powerful suction / 美甲吸尘器",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-6b88c153d9f67903.jpg",
+      "name": "Waterproof design / 打磨机",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-02f40d7001d17527.jpg",
+      "name": "Professional nail kit / 美甲工具",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-c6d172b0423b6ac6.jpg",
+      "name": "Spring sakura / 春日美甲",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-14a2985455ae279e.jpg",
+      "name": "Ride beyond limits / 电动滑板车",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-6a9e4dfd9b1e6da8.jpg",
+      "name": "产品视觉 / 画板 1 拷贝11",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/update-ca00b39717e569f2.jpg",
+      "name": "轻盈悬浮 / 美甲灯",
+      "type": "poster",
+      "group": "product"
+    }
+  ],
+  "banners": [
+    {
+      "image": "portfolio/001.jpg",
+      "name": "Arshiner / 复活节",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/002.jpg",
+      "name": "Arshiner / 万圣节",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/003.gif",
+      "name": "COOFANDY / 万圣节动态视觉",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/004.jpg",
+      "name": "EKOUAER / 复活节",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/005.gif",
+      "name": "COOFANDY / 节日新品动态视觉",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/006.jpg",
+      "name": "Fleurwee / 植物胶",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/007.jpg",
+      "name": "COOFANDY / 人气单品",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/008.jpg",
+      "name": "EKOUAER / 女性主题",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/009.jpg",
+      "name": "ONAIL / 母亲节礼盒",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/010.jpg",
+      "name": "ONAIL / 礼赠季",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/011.jpg",
+      "name": "ONAIL / 美甲工具",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/012.jpg",
+      "name": "MelodySusie / M 系列",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/013.jpg",
+      "name": "MelodySusie / 神秘新品",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/014.jpg",
+      "name": "ONAIL / 节日促销",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/015.jpg",
+      "name": "Pinspark / Black Friday",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/016.jpg",
+      "name": "MelodySusie / X 系列",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/017.jpg",
+      "name": "NAVEE / 高尔夫代言人",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    }
+  ],
+  "sizes": {
+    "portfolio/000.jpg": {
+      "width": 736,
+      "height": 1308
+    },
+    "portfolio/001.jpg": {
+      "width": 1600,
+      "height": 747
+    },
+    "portfolio/002.jpg": {
+      "width": 1600,
+      "height": 578
+    },
+    "portfolio/003.gif": {
+      "width": 1920,
+      "height": 850
+    },
+    "portfolio/004.jpg": {
+      "width": 1600,
+      "height": 708
+    },
+    "portfolio/005.gif": {
+      "width": 1920,
+      "height": 850
+    },
+    "portfolio/006.jpg": {
+      "width": 1600,
+      "height": 629
+    },
+    "portfolio/007.jpg": {
+      "width": 1600,
+      "height": 708
+    },
+    "portfolio/008.jpg": {
+      "width": 1600,
+      "height": 708
+    },
+    "portfolio/009.jpg": {
+      "width": 1600,
+      "height": 667
+    },
+    "portfolio/010.jpg": {
+      "width": 1600,
+      "height": 667
+    },
+    "portfolio/011.jpg": {
+      "width": 1600,
+      "height": 771
+    },
+    "portfolio/012.jpg": {
+      "width": 1600,
+      "height": 571
+    },
+    "portfolio/013.jpg": {
+      "width": 1600,
+      "height": 571
+    },
+    "portfolio/014.jpg": {
+      "width": 1600,
+      "height": 767
+    },
+    "portfolio/015.jpg": {
+      "width": 1600,
+      "height": 800
+    },
+    "portfolio/016.jpg": {
+      "width": 1600,
+      "height": 800
+    },
+    "portfolio/017.jpg": {
+      "width": 1600,
+      "height": 900
+    },
+    "portfolio/018.jpg": {
+      "width": 1508,
+      "height": 15000
+    },
+    "portfolio/019.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/020.jpg": {
+      "width": 1600,
+      "height": 9249
+    },
+    "portfolio/021.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/022.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/023.jpg": {
+      "width": 1100,
+      "height": 9250
+    },
+    "portfolio/024.jpg": {
+      "width": 1100,
+      "height": 12149
+    },
+    "portfolio/025.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/026.jpg": {
+      "width": 1100,
+      "height": 12149
+    },
+    "portfolio/027.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/028.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/029.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/030.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/031.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/032.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/033.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/034.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/035.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/036.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/037.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/038.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/039.jpg": {
+      "width": 1464,
+      "height": 4200
+    },
+    "portfolio/040.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/041.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/042.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/043.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/044.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/045.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/046.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/047.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/048.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/049.jpg": {
+      "width": 1600,
+      "height": 7739
+    },
+    "portfolio/050.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/051.jpg": {
+      "width": 1600,
+      "height": 7139
+    },
+    "portfolio/052.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/053.jpg": {
+      "width": 1600,
+      "height": 12883
+    },
+    "portfolio/054.jpg": {
+      "width": 1149,
+      "height": 1110
+    },
+    "portfolio/055.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/056.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/057.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/058.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/059.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/060.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/061.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/062.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/063.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/064.jpg": {
+      "width": 1600,
+      "height": 11052
+    },
+    "portfolio/065.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/066.jpg": {
+      "width": 1600,
+      "height": 5171
+    },
+    "portfolio/067.jpg": {
+      "width": 1464,
+      "height": 4200
+    },
+    "portfolio/068.jpg": {
+      "width": 1149,
+      "height": 1110
+    },
+    "portfolio/069.jpg": {
+      "width": 1600,
+      "height": 6203
+    },
+    "portfolio/070.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/071.jpg": {
+      "width": 1464,
+      "height": 4792
+    },
+    "portfolio/072.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/073.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/074.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/075.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/076.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/077.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/078.jpg": {
+      "width": 1135,
+      "height": 757
+    },
+    "portfolio/079.jpg": {
+      "width": 1600,
+      "height": 14264
+    },
+    "portfolio/080.jpg": {
+      "width": 1149,
+      "height": 1110
+    },
+    "portfolio/081.jpg": {
+      "width": 1600,
+      "height": 9652
+    },
+    "portfolio/083.jpg": {
+      "width": 517,
+      "height": 904
+    },
+    "portfolio/084.jpg": {
+      "width": 515,
+      "height": 904
+    },
+    "portfolio/085.jpg": {
+      "width": 517,
+      "height": 904
+    },
+    "portfolio/086.jpg": {
+      "width": 517,
+      "height": 904
+    },
+    "portfolio/087.jpg": {
+      "width": 516,
+      "height": 904
+    },
+    "portfolio/088.jpg": {
+      "width": 517,
+      "height": 904
+    },
+    "portfolio/update-ec06483410de4952.jpg": {
+      "width": 517,
+      "height": 904
+    },
+    "portfolio/update-cad4f11f87dbc35f.jpg": {
+      "width": 515,
+      "height": 904
+    },
+    "portfolio/update-0e2a6a5ca8d11306.jpg": {
+      "width": 517,
+      "height": 904
+    },
+    "portfolio/update-4ff9d153e0cb69c2.jpg": {
+      "width": 517,
+      "height": 904
+    },
+    "portfolio/update-f9a8875439162032.jpg": {
+      "width": 516,
+      "height": 904
+    },
+    "portfolio/update-e34b020c25caa85c.jpg": {
+      "width": 517,
+      "height": 904
+    },
+    "portfolio/update-819c1cafe358b6ca.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-2c46e0e71140c90c.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-542949a2d6a814ad.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-2ab251df4b475384.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-7273b215c8813c2b.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-b7e10190b3ed6141.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-6b88c153d9f67903.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-02f40d7001d17527.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-c6d172b0423b6ac6.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-14a2985455ae279e.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-6a9e4dfd9b1e6da8.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-ca00b39717e569f2.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/update-4ed21f28182eafc2.jpg": {
+      "width": 1600,
+      "height": 1600
+    },
+    "portfolio/update-ea0f5e3b168c035a.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/update-87c38ce606e9da45.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/update-62c6897408112839.jpg": {
+      "width": 1464,
+      "height": 4200
+    },
+    "portfolio/update-fe20d45b0671d59f.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/update-cf95445703f873bc.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/update-7f3ec2ba4058f4d1.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/update-f88b32b2cf23e137.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/update-8d40e826078671b6.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/update-784fe39b943ad4de.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/update-d938b04aaaf8f34c.jpg": {
+      "width": 1600,
+      "height": 1850
+    },
+    "portfolio/closing-ae19f1f3bc2a957b.jpg": {
+      "width": 1308,
+      "height": 736
+    }
+  },
+  "closing": "portfolio/closing-ae19f1f3bc2a957b.jpg"
+}
