@@ -63,7 +63,9 @@ html,body{overflow-x:clip}
 /* Real artwork: intrinsic proportions reserve space and preserve the entire composition. */
 #features .feature-card{display:grid;grid-template-rows:auto minmax(0,1fr) auto}
 #features .feature-card>img{width:100%;height:100%;min-height:0;max-width:100%;aspect-ratio:auto;object-fit:contain;border-radius:0;margin:0;transform:none}
-#brands .brand-image img{height:auto;min-height:0;max-height:58dvh;object-fit:contain;aspect-ratio:1135/757}
+#brands .brand-image{background:transparent}
+#brands .brand-image img{display:block;width:100%;height:auto;min-height:0;max-height:none;object-fit:contain;aspect-ratio:auto 1135/757}
+@media(min-width:1024px){#brands .brand-card{width:min(58vw,calc(58dvh * 1135 / 757))}}
 #products .product-image img,#campaigns .campaign-image img{width:100%;height:auto;max-height:none;aspect-ratio:auto;object-fit:contain}
 #other .art-card img{width:100%;height:auto;aspect-ratio:auto;object-fit:contain}
 .feature-grid{width:min(62vw,1240px);max-width:100%;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(16px,1.15vw,24px)}
@@ -72,7 +74,6 @@ html,body{overflow-x:clip}
 .feature-card>img,.feature-1>img{width:100%;height:auto;max-width:100%;aspect-ratio:1149/1110;object-fit:contain;flex-shrink:0;border-radius:0;margin:0;align-self:center}
 .feature-card>div{gap:8px;width:100%}.feature-card h3{font-size:clamp(16px,1.25vw,24px)}
 .feature-label{font-size:clamp(8px,.65vw,11px)}
-.brand-image img{height:auto;min-height:0;max-height:58dvh;object-fit:contain;aspect-ratio:1135/757}
 .product-image img,.campaign-image img{width:100%;height:auto;max-height:none;aspect-ratio:auto;object-fit:contain}
 .campaign-row{min-height:0;align-items:start;margin-bottom:130px}.campaign-copy{min-height:100%;gap:48px}
 .other-layout{grid-template-columns:minmax(0,1.9fr) minmax(0,1fr);align-items:start;gap:5vw}
