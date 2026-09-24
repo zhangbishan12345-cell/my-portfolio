@@ -51,13 +51,13 @@
       ]
     },
     "exo": {
-      "image": "portfolio/054.jpg",
+      "image": "portfolio/exo-dd7129bd634e836a.jpg",
       "gallery": [
-        "portfolio/053.jpg"
+        "portfolio/exo-019959acf730893a.jpg"
       ],
       "mainImages": [],
       "detailImages": [
-        "portfolio/053.jpg"
+        "portfolio/exo-019959acf730893a.jpg"
       ]
     },
     "plant": {
@@ -884,6 +884,14 @@
     "portfolio/onail-hd-ee53b28d0765.jpg": {
       "width": 1920,
       "height": 21200
+    },
+    "portfolio/exo-019959acf730893a.jpg": {
+      "width": 1920,
+      "height": 17140
+    },
+    "portfolio/exo-dd7129bd634e836a.jpg": {
+      "width": 1149,
+      "height": 1110
     }
   },
   "closing": "portfolio/closing-ae19f1f3bc2a957b.jpg"
