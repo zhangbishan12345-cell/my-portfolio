@@ -244,7 +244,7 @@
       "group": "product"
     },
     {
-      "image": "portfolio/update-542949a2d6a814ad.jpg",
+      "image": "portfolio/visual-40063bc4af601120.jpg",
       "name": "More than a lamp / 美甲灯",
       "type": "poster",
       "group": "product"
@@ -304,19 +304,13 @@
       "group": "product"
     },
     {
-      "image": "portfolio/visual-02b6cd8f0b7fbf63.jpg",
-      "name": "vivo / 星空电影感",
-      "type": "poster",
-      "group": "product"
-    },
-    {
       "image": "portfolio/visual-506c4a01b1dd8e26.jpg",
       "name": "vivo / 日落电影感",
       "type": "poster",
       "group": "product"
     },
     {
-      "image": "portfolio/visual-99b90f2c45acd442.jpg",
+      "image": "portfolio/visual-b13804471f14fdfa.jpg",
       "name": "Hytera / SC700 产品性能",
       "type": "poster",
       "group": "product"
@@ -330,50 +324,8 @@
   ],
   "banners": [
     {
-      "image": "portfolio/001.jpg",
-      "name": "Arshiner / 复活节",
-      "type": "banner",
-      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
-    },
-    {
-      "image": "portfolio/002.jpg",
-      "name": "Arshiner / 万圣节",
-      "type": "banner",
-      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
-    },
-    {
-      "image": "portfolio/003.gif",
-      "name": "COOFANDY / 万圣节动态视觉",
-      "type": "banner",
-      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
-    },
-    {
-      "image": "portfolio/004.jpg",
-      "name": "EKOUAER / 复活节",
-      "type": "banner",
-      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
-    },
-    {
-      "image": "portfolio/005.gif",
-      "name": "COOFANDY / 节日新品动态视觉",
-      "type": "banner",
-      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
-    },
-    {
       "image": "portfolio/006.jpg",
       "name": "Fleurwee / 植物胶",
-      "type": "banner",
-      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
-    },
-    {
-      "image": "portfolio/007.jpg",
-      "name": "COOFANDY / 人气单品",
-      "type": "banner",
-      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
-    },
-    {
-      "image": "portfolio/008.jpg",
-      "name": "EKOUAER / 女性主题",
       "type": "banner",
       "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
     },
@@ -430,6 +382,48 @@
       "name": "Hytera / SC700 产品视觉",
       "type": "banner",
       "description": "以产品细节、光影与信息层级，呈现品牌的视觉表达。"
+    },
+    {
+      "image": "portfolio/001.jpg",
+      "name": "Arshiner / 复活节",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/002.jpg",
+      "name": "Arshiner / 万圣节",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/003.gif",
+      "name": "COOFANDY / 万圣节动态视觉",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/004.jpg",
+      "name": "EKOUAER / 复活节",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/005.gif",
+      "name": "COOFANDY / 节日新品动态视觉",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/007.jpg",
+      "name": "COOFANDY / 人气单品",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/008.jpg",
+      "name": "EKOUAER / 女性主题",
+      "type": "banner",
+      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
     }
   ],
   "sizes": {
@@ -935,6 +929,14 @@
     },
     "portfolio/visual-007f1c8f63050575.jpg": {
       "width": 1200,
+      "height": 1600
+    },
+    "portfolio/visual-40063bc4af601120.jpg": {
+      "width": 1600,
+      "height": 2143
+    },
+    "portfolio/visual-b13804471f14fdfa.jpg": {
+      "width": 1202,
       "height": 1600
     }
   },
