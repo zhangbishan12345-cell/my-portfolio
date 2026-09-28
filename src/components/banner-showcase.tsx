@@ -21,7 +21,7 @@ export default function BannerShowcase() {
       <div className="banner-heading">
         <p>Banner design</p>
         <h2 id="banner-title">Small canvas.<br/>Strong impression.</h2>
-        <p>从服装季节企划到美甲工具上新，以场景、色彩和信息层级呈现品牌。17 幅横版视觉，含动态设计。</p>
+        <p>从服装季节企划到美甲工具上新，以场景、色彩和信息层级呈现品牌。{banners.length} 幅横版视觉，含动态设计。</p>
       </div>
       <SqueezeCarousel
         className="banner-carousel"

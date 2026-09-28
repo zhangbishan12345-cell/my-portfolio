@@ -302,6 +302,30 @@
       "name": "轻盈悬浮 / 美甲灯",
       "type": "poster",
       "group": "product"
+    },
+    {
+      "image": "portfolio/visual-02b6cd8f0b7fbf63.jpg",
+      "name": "vivo / 星空电影感",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/visual-506c4a01b1dd8e26.jpg",
+      "name": "vivo / 日落电影感",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/visual-99b90f2c45acd442.jpg",
+      "name": "Hytera / SC700 产品性能",
+      "type": "poster",
+      "group": "product"
+    },
+    {
+      "image": "portfolio/visual-007f1c8f63050575.jpg",
+      "name": "NAVEE / 绿茵探索",
+      "type": "poster",
+      "group": "product"
     }
   ],
   "banners": [
@@ -390,12 +414,6 @@
       "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
     },
     {
-      "image": "portfolio/015.jpg",
-      "name": "Pinspark / Black Friday",
-      "type": "banner",
-      "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
-    },
-    {
       "image": "portfolio/016.jpg",
       "name": "MelodySusie / X 系列",
       "type": "banner",
@@ -406,6 +424,12 @@
       "name": "NAVEE / 高尔夫代言人",
       "type": "banner",
       "description": "围绕产品、场景与活动信息，延展品牌在横版画布上的表达。"
+    },
+    {
+      "image": "portfolio/visual-0131c47f3774a7c3.jpg",
+      "name": "Hytera / SC700 产品视觉",
+      "type": "banner",
+      "description": "以产品细节、光影与信息层级，呈现品牌的视觉表达。"
     }
   ],
   "sizes": {
@@ -892,6 +916,26 @@
     "portfolio/exo-dd7129bd634e836a.jpg": {
       "width": 1149,
       "height": 1110
+    },
+    "portfolio/visual-0131c47f3774a7c3.jpg": {
+      "width": 1600,
+      "height": 844
+    },
+    "portfolio/visual-02b6cd8f0b7fbf63.jpg": {
+      "width": 1080,
+      "height": 1440
+    },
+    "portfolio/visual-506c4a01b1dd8e26.jpg": {
+      "width": 1080,
+      "height": 1440
+    },
+    "portfolio/visual-99b90f2c45acd442.jpg": {
+      "width": 1202,
+      "height": 1600
+    },
+    "portfolio/visual-007f1c8f63050575.jpg": {
+      "width": 1200,
+      "height": 1600
     }
   },
   "closing": "portfolio/closing-ae19f1f3bc2a957b.jpg"
